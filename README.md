@@ -345,14 +345,6 @@ Built with care for the MATLAB and C++ communities. Special thanks to developers
 
 ---
 
-## 📬 Contact & Support
-
-- **Issues:** [GitHub Issues](https://github.com/yourusername/matx-bridge/issues)
-- **Discussions:** [GitHub Discussions](https://github.com/yourusername/matx-bridge/discussions)
-- **Email:** your.email@example.com
-
----
-
 <div align="center">
 
 **⭐ If MatX-Bridge helped your project, please star the repository! ⭐**
